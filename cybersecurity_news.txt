@@ -1,0 +1,5 @@
+Cybersecurity News - 2024-11-28 09:29:54
+[Threatpost] Student Loan Breach Exposes 2.5M Records: https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/
+
+[Hacker News] Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230: https://github.com/xairy/lights-out
+
